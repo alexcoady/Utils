@@ -11,7 +11,7 @@
  *  Usage
  *  
  *  `var rangeX = rangeFunc(1,10,1,100);`
- *  `var mappedNumber = rangeX(5)` // 50
+ *  `var mappedNumber = rangeX(5); // 50`
  */
 function rangeFunc ( inputFrom, inputTo, outputFrom, outputTo ) {
   
